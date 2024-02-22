@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Jo.Pitt Biaya Ajibade, a passionate computer science student at DAUST (DAkar American University of Science and Technology). I am enthusiastic about exploring the intersection of technology and creativity, with a focus on web development and software engineering.
+I'm Jo.Pitt Biaya Ajibade, a passionate computer science student at DAUST (Dakar American University of Science and Technology). I am enthusiastic about exploring the intersection of technology and creativity, with a focus on web development and software engineering.
 
 ## About Me
 
