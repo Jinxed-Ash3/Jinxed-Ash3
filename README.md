@@ -14,9 +14,9 @@ I'm Jo.Pitt Biaya Ajibade, a passionate computer science student at DAUST (Dakar
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks:** React.js, Node.js (Express)
-- **Tools:** Git, VS Code, GitHub
+- **Languages:** HTML, CSS, JavaScript, Python, Solidity
+- **Frameworks:** React.js
+- **Tools:** VS Code, GitHub
 
 ## Projects
 
